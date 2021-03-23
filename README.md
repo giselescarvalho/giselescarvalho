@@ -1,16 +1,34 @@
 ### Hi there 👋
 
-<!--
-**giselescarvalho/giselescarvalho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div class="Body class px-5 pb-5"> 
+  <pre>
+┌──┤ WHO AM I ├───────▰▰▰
+│
+├─▣ Bacharelado em Ciência e Tecnologia Student at UFABC
+├─▣ Back-end Developer graduated from Generation Brasil
+├─▣ Software Engineer focused on Java, Docker & Spring
+│
+└───────────────────────────────▰▰▰
 
-Here are some ideas to get you started:
+<div>
+┌──┤ SOCIAL ├──────────▰▰▰
+│
+├─◈ <a href="https://www.linkedin.com/in/gisele-da-silva-carvalho/"> LinkedIn </a>
+├─◈<a href="https://github.com/giselescarvalho"> GitHub </a>
+│
+└───────────────────────────────▰▰▰
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+┌──┤ PROJECTS ├────────▰▰▰
+│
+├─◈<a href="https://github.com/ProjetoIntegradorGrupo1"> Wabis </a>
+├─◈<a href="https://github.com/BomdiaKaraoke"> BomdiaKaraoke </a>
+├─◈<a href="https://github.com/giselescarvalho/Projeto-Criptografia"> Projeto-Criptografia </a>
+│
+└───────────────────────────────▰▰▰
+  </pre>
+</div>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giselescarvalho&show_icons=true&theme=vue)
+
+![YOUR github stats](https://github-readme-stats.vercel.app/api?username=giselescarvalho&show_icons=true&theme=vue)
