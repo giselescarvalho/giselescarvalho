@@ -13,7 +13,7 @@
 <div>
 ┌──┤ SOCIAL ├──────────▰▰▰
 │
-├─◈ <a href="https://www.linkedin.com/in/gisele-da-silva-carvalho/"> LinkedIn </a>
+├─◈<a href="https://www.linkedin.com/in/gisele-da-silva-carvalho/"> LinkedIn </a>
 ├─◈<a href="https://github.com/giselescarvalho"> GitHub </a>
 │
 └───────────────────────────────▰▰▰
