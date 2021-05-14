@@ -29,4 +29,6 @@
   </pre>
 </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giselescarvalho&show_icons=true&theme=vue)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=giselescarvalho&layout=compact)](https://github.com/giselescarvalho/github-readme-stats)
+<img align="left" alt="GIF" src="https://media.giphy.com/media/dECBf0xnwQKCPZOkiC/giphy.gif" width="190" height="190" style="max-width:100%;"></a>
+
