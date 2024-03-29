@@ -4,7 +4,7 @@
   <pre>
 ┌──┤ WHO AM I ├───────▰▰▰
 │
-├─▣ Bacharelado em Ciência e Tecnologia Student at UFABC
+├─▣ Engineering Student at UFABC
 ├─▣ Back-end Developer graduated from Generation Brasil
 ├─▣ Software Engineer focused on Java, Docker & Spring
 │
