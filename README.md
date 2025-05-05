@@ -1,12 +1,11 @@
 ### Hi there  🌞 
+![image](https://github.com/user-attachments/assets/92531616-e872-4b70-b5f4-9efe0e03bed8)
 
 <div class="Body class px-5 pb-5"> 
   <pre>
 ┌──┤ WHO AM I ├───────▰▰▰
 │
 ├─▣ Engineering Student at UFABC
-├─▣ Back-end Developer graduated from Generation Brasil
-├─▣ Software Engineer focused on Java, Docker & Spring
 │
 └───────────────────────────────▰▰▰
 
